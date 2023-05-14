@@ -13,12 +13,16 @@
 
 • Upload and extract text from PDFs to include in the query
 
+• One-click install-and-run on Windows
+
 
 # Installation
 
 • To install the necessary dependencies, use pip:
 
   • pip install flask pdfminer.six sseclient requests openai python-dotenv
+  
+  `This is not necessary if using the provided .ps1 script for Windows`
 
 
 # Setup
@@ -28,6 +32,8 @@
   • OPENAI_API_KEY=your_api_key_here
   
   `Replace your_api_key_here with your actual OpenAI API key.`
+  
+• Optionally, you can set an environment variable manually, as happens in the provided Powershell script for Windows
 
 
 # Usage
