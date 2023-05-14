@@ -1,0 +1,2 @@
+1. Run the `webapp.bat` file
+2. Open a browser and navigate to localhost:5000
