@@ -8,7 +8,7 @@ pip install python-dotenv
 pip install sseclient
 
 # Set environment variable
-$env:OPENAI_API_KEY = "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"
+$env:OPENAI_API_KEY = "API_KEY_HERE"
 
 # Run the Python script
 python app.py
