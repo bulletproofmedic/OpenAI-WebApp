@@ -22,7 +22,7 @@ This repository hosts a web application that utilizes OpenAI's GPT-3 or GPT-4 to
 
   • pip install flask pdfminer.six sseclient requests openai python-dotenv
   
-  `This is not necessary if using the provided .ps1 script for Windows`
+  `This is not necessary if using the provided Powershell script for Windows`
 
 
 # Setup
@@ -38,7 +38,7 @@ This repository hosts a web application that utilizes OpenAI's GPT-3 or GPT-4 to
 
 # Usage
 
-• To run the application, simply execute the Python script with a command line interface:
+• To run the application simply execute the provided Powershell script, or run the Python script with a command line interface:
 
   • python app.py
   
