@@ -1,6 +1,6 @@
 # GPT-Chat Web Application
 
-• This repository hosts a web application that utilizes OpenAI's GPT-3 or GPT-4 to generate responses to user queries. Users can optionally include a system message to provide context for the AI, or upload a PDF from which the application will extract text and add to the user query.
+This repository hosts a web application that utilizes OpenAI's GPT-3 or GPT-4 to generate responses to user queries. Users can optionally include a system message to provide context for the AI, or upload a PDF from which the application will extract text and add to the user query.
 
 
 # Features
